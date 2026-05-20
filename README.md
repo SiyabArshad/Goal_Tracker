@@ -353,5 +353,11 @@ firestore.rules             # Database security
 firestore.indexes.json      # Query indexes
 firebase.json               # Hosting + Firestore deploy config
 ```
+## Demo Video
 
+Watch the GoalTracker walkthrough/demo here:
+
+[![Watch the demo](https://img.youtube.com/vi/qaBJgLVpS6s/maxresdefault.jpg)](https://youtu.be/qaBJgLVpS6s)
+
+Direct link: https://youtu.be/qaBJgLVpS6s
 
