@@ -354,16 +354,4 @@ firestore.indexes.json      # Query indexes
 firebase.json               # Hosting + Firestore deploy config
 ```
 
----
 
-## Summary for HR / stakeholders
-
-**GoalTracker** is a discipline and planning product: users define goals, map them onto a real weekly calendar (including non-goal time like university or work), check in daily with fair time rules, and review analytics on how well they follow the plan. It supports both **try-before-signup (guest)** and **cloud accounts (Firebase)**.
-
-**Built with** mainstream, hire-friendly technologies (React, TypeScript, Next.js, Firebase) using clear code structure suitable for portfolio review, internship discussion, or technical interviews.
-
----
-
-## License
-
-Private / personal project. Add a license if you open-source or distribute commercially.
